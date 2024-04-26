@@ -1,13 +1,14 @@
 ---
 title: 'Production of a Vital Statistics Report: Template'
-date: '2024-04-24'
+date: ''
 output: 
   word_document:
-    reference_docx: D:/repos/Rmd_test/Report_Style.docx
+    reference_docx: /Users/liambeardsmore/Documents/GitHub/rmd_test/ReportStyle.docx
 
 ---
 \newpage
-*Instructions – please read these pages carefully and delete once the template has been finalised*  
+
+***Instructions*** – *please read these pages carefully and delete once the template has been finalised*
 
 For detailed instructions on how to use this template, refer to the ‘Production of a Vital Statistics Report: Guide’ (2020), available at the resource website.  
 
@@ -64,7 +65,7 @@ This template is based on the United Nations Principles and Recommendations for 
 \newpage
 
 
- Table of contents  
+## Table of contents  
 
 Table of contents	6  
 List of tables	7  
@@ -78,21 +79,29 @@ Executive summary	15
     Deaths	15  
     Leading causes of death	16  
     Marriages and divorces	17  
-  Chapter 1.	Introduction and methodology	18  
+    
+  Chapter 1.  
+  Introduction and methodology	18  
     1.1	Introduction	18  
     1.2	Data sources and methodology	18  
-  Chapter 2.	The civil registration system	19  
+    
+  Chapter 2.  
+  The civil registration system	19  
     2.1	History	19  
     2.2	Legal and administrative issues	19  
     2.3	Organisational structure, registration processes and information flows	19  
     2.4	Organisation of vital statistics production and dissemination	20  
     2.5	Incentives and disincentives for registration	20  
-  Chapter 3.	Data quality, timeliness of registration, and registration completeness	21  
+    
+  Chapter 3.  
+  Data quality, timeliness of registration, and registration completeness	21  
     3.1	Data quality	21  
     3.2	Timeliness of registration	21  
     3.3	Completeness of registration	23  
     3.4	Data adjustment and redistribution	24  
-  Chapter 4.	Births	28  
+    
+  Chapter 4.  
+  Births	28  
     4.1	Births by place of occurrence	28  
     4.2	Births by place of occurrence and place of usual residence of mother	29  
     4.3	Births by age of mother	29  
@@ -100,7 +109,9 @@ Executive summary	15
     4.5	Crude birth rate	32  
     4.6	Age-specific fertility rates	32  
     4.7	Total fertility rate	34  
-  Chapter 5.	Deaths	35  
+    
+  Chapter 5.  
+  Deaths	35  
     5.1	Deaths by place of usual residence and sex of decedent	35  
     5.2	Deaths by place of occurrence, place of usual residence, and sex of decedent	36  
     5.3	Deaths by place and site of occurrence	37  
@@ -111,18 +122,25 @@ Executive summary	15
     5.8	Maternal mortality	41  
     5.9	Life expectancy	41  
     5.10	Foetal deaths	42  
-  Chapter 6.	Causes of death	43  
+    
+  Chapter 6.  
+  Causes of death	43  
     6.1	Deaths by broad cause of death group	43  
     6.2	Top 10 causes of death	44  
     6.3	Leading causes of death by age and sex	45  
-  Chapter 7.	Marriages and divorces	50  
+    
+  Chapter 7.  
+  Marriages and divorces	50  
     7.1	Marriages	50  
     7.2	Divorces	53  
-  Chapter 8.	Summary tables	58  
+    
+  Chapter 8.  
+  Summary tables	58  
+  
 Annexes	60  
 
+\newpage
 ## List of tables 
-<br>
 
 Table 3.1 Number of vital events by registration timeliness, year	21  
 Table 3.2 Proportion (%) of births by year of registration and year of occurrence	22  
@@ -184,6 +202,7 @@ Table 8.3 Fertility and mortality indicators by year of occurrence	58
 Table 8.4 Fertility and mortality indicators by place of usual residence of mother (births and infant deaths) or decedent (other deaths), year	58  
 Table 8.5 Marriage and divorce indicators by year of occurrence	59  
 
+\newpage
 ## List of figures  
 Figure 3.1 Proportion (%) of live births and deaths by registration timeliness	21  
 Figure 4.1 Live births by year of occurrence	29  
@@ -204,75 +223,102 @@ Figure 7.2 Average age at first marriage by sex and year of occurrence	52
 Figure 7.3 Divorces by year of occurrence	53  
 Figure 7.4 Average age at divorce by sex and year of occurrence	54  
 Figure 7.5 Age-specific divorce rate by sex and year of occurrence	54  
-Figure 7.6 Divorces by duration of marriage and year of occurrence	56  
+Figure 7.6 Divorces by duration of marriage and year of occurrence	56
 
- 
-Preface
+\newpage
+
+## Preface
 ENTER TEXT HERE. A preface is usually a short introduction to the report, explaining why and for whom it was prepared and who contributed. It may be signed by a high-ranking officer, such as the Minister or Permanent Secretary of the Ministry under which the main contributing institution is placed, the Director General of the main contributing institution and/or the head of the department writing the report, depending on the traditions of the institutions in the country. 
-It should briefly cover such things as:
-•	Aim of report
-•	Who the report was prepared for
-•	Who collected the data and who compiled it
-•	Scope and coverage of publication 
-•	Use of the report
- 
-Acknowledgements
+It should briefly cover such things as:  
+*	Aim of report  
+
+*	Who the report was prepared for  
+
+*	Who collected the data and who compiled it  
+
+*	Scope and coverage of publication  
+
+*	Use of the report  
+
+\newpage
+## Acknowledgements
 ENTER TEXT HERE. All parties that contributed to the vital statistics report should be mentioned here. This includes those who contributed financially and those who provided input and suggestions.
 
- 
-Acronyms and abbreviations
-All acronyms and abbreviations used in the report should be listed, especially country-specific terms. Update the list below and then delete this text box by clicking on the three dots to the left of the box and pressing ‘delete’ on the keyboard.
-ASFR	Age-specific fertility rate
-ASMR	Age-specific mortality rate
-CBR	Crude birth rate
-CDR	Crude death rate
-CRVS	Civil registration and vital statistics
-CSMF	Cause-specific mortality fraction
-D4H	Bloomberg Philanthropies Data for Health Initiative
-DHS	Demographic and Health Survey
-ECA	(United Nations) Economic Commission for Africa
-ESCAP	(United Nations) Economic and Social Commission for Asia and the Pacific
-IMR	Infant mortality rate
-MMR	Maternal mortality ratio
-MCCD	Medical certification of cause of death
-NMR	Neonatal mortality rate
-TFR	Total fertility rate
-UN	United Nations
-US CDC	United States Centers for Disease Control and Prevention 
-U5MR	Under-5 mortality rate
-VA	Verbal autopsy
-VS	Vital statistics
-WHO	World Health Organization
+\newpage
+## Acronyms and abbreviations
+All acronyms and abbreviations used in the report should be listed, especially country-specific terms. Update the list below and then delete this text box by clicking on the three dots to the left of the box and pressing ‘delete’ on the keyboard.  
+**ASFR**	Age-specific fertility rate.  
+**ASMR**	Age-specific mortality rate.  
+**CBR**	Crude birth rate.  
+**CDR**	Crude death rate.  
+**CRVS**	Civil registration and vital statistics.  
+**CSMF**	Cause-specific mortality fraction.  
+**D4H**	Bloomberg Philanthropies Data for Health Initiative.  
+**DHS**	Demographic and Health Survey.  
+**ECA**	(United Nations) Economic Commission for Africa.  
+**ESCAP**	(United Nations) Economic and Social Commission for Asia and the Pacific.  
+**IMR**	Infant mortality rate.  
+**MMR**	Maternal mortality ratio.  
+**MCCD**	Medical certification of cause of death.  
+**NMR**	Neonatal mortality rate.  
+**TFR**	Total fertility rate.  
+**UN**	United Nations.  
+**US CDC**	United States Centers for Disease Control and Prevention.   
+**U5MR**	Under-5 mortality rate.  
+**VA**	Verbal autopsy.  
+**VS**	Vital statistics.  
+**WHO**	World Health Organization.  
 
 
- 
-Definitions
-It is useful to include a list of definitions used in the report, especially for terms with varying definitions internationally, or any terms that are country-specified. Update the list below, including any country-specific definitions used and then delete this text box by clicking on the three dots to the left of the box and pressing ‘delete’ on the keyboard.
-Age-specific fertility rate (ASFR): The annual number of births to women of a particular age group per 1,000 women in that age group.
-Age-specific mortality rate (ASMR): A mortality rate limited to a particular age group. The numerator is the number of deaths in that age group; the denominator is the number of persons in that age group in the population.
-Cause of death: ‘All those diseases, morbid conditions or injuries which either resulted in or contributed to death and the circumstances of the accident or violence which produced any such injuries’.  Symptoms and modes of dying, such as heart failure or respiratory failure, are not considered to be causes of death for statistical purposes (see ‘ill-defined cause of death’).
-Completeness of registration: The proportion of vital events that are registered. It is the number of registered vital events divided by an estimate of the actual number of vital events that occurred in the same population during a specific period of time.
-Crude birth rate (CBR): The number of live births relative to the size of that population during a given period, usually one year. It is expressed as the number of live births per 1,000 population per year.
-Crude death rate (CDR): The number of deaths relative to the size of that population during a given period, usually one year. It is expressed as the number of deaths per 1,000 population per year.
-Death: The permanent disappearance of all evidence of life at any time after live birth has taken place (postnatal cessation of vital functions without capability of resuscitation). This definition excludes foetal deaths, which are defined separately.
-Foetal death (also referred to as ‘stillbirth’): ‘Death prior to the complete expulsion or extraction from the mother of a product of conception, irrespective of the duration of pregnancy; the death is indicated by the fact that after such separation the foetus does not breathe or show any other evidence of life, such as beating of the heart, pulsation of the umbilical cord or definite movement of voluntary muscles.’  Note that this definition broadly includes all terminations of pregnancy other than live births, as defined above.
-Ill-defined cause of death: Any code that cannot or should not be used for the underlying cause of death (generally referring to ‘R codes’). For instance, a ‘mode of death’ such as heart failure or kidney failure, symptoms such as back pain or depression, and risk factors such as high blood pressure are all uninformative, ill-defined codes for public health purposes. 
-Infant mortality rate (IMR): Probability (expressed as a rate per 1,000 live births) of a child born in a specific year or period dying before reaching the age of 1, if subject to age-specific mortality rates of that period.
-Life expectancy at birth: The average number of years that a newborn could expect to live, if he or she were to pass through life exposed to the sex- and age-specific death rates prevailing at the time of his or her birth, for a specific year, in a given country, territory, or geographic area.
-Live birth: ‘The complete expulsion or extraction from the mother of a product of conception, irrespective of the duration of pregnancy, which, after such separation, breathes or shows any other evidence of life, such as beating of the heart, pulsation of the umbilical cord, or definite movement of voluntary muscles, whether or not the umbilical cord has been cut or the placenta is attached; each product of such a birth is considered live born (all live-born infants should be registered and counted as such, irrespective of gestational age or whether alive or dead at the time of registration, and if they die at any time following birth, they should also be registered and counted as deaths).’ 
-Maternal death: ‘The death of a woman while pregnant or within 42 days of termination of pregnancy, irrespective of the duration and site of the pregnancy, from any cause related to or aggravated by the pregnancy or its management but not from accidental or incidental causes.’ 
-Maternal mortality ratio (MMR): The number of maternal deaths during a given time period per 100,000 live births during the same time period.
-Neonatal mortality rate (NMR): Probability (expressed as a rate per 1,000 live births) of a child born in a specific year or period dying in the first 30 days of life, if subject to age-specific mortality rates of that period.
-Sex ratio at birth: The number of male births for a specific area and during a specified period divided by the number of female births for the same area and period. The sex ratio is an important demographic indicator of the distribution of boys and girls at birth.
-Total fertility rate (TFR): The sum of age-specific fertility rates for females aged between 15 and 49 years during a specified period, usually one year. It is an estimate of the average number of children a cohort of women would bear if they went through their childbearing years experiencing the same age-specific fertility rates.
-Under-5 mortality rate (U5MR): The probability of a child born in a specific year or period dying before reaching the age of 5, if subject to age-specific mortality rates of that period. The under-5 mortality rate as defined here is strictly speaking not a rate (i.e. the number of deaths divided by the number of population at risk during a certain period of time) but a probability of death derived from a life table and expressed as rate per 1,000 live births.
-Underlying cause of death: The cause of death to be used for primary statistical tabulation purposes has been designated as the underlying cause of death. The underlying cause of death is defined as ‘(a) the disease or injury which initiated the train of events leading directly to death, or (b) the circumstances of the accident or violence which produced the fatal injury.’ 
-Executive summary
+\newpage
+## Definitions
+It is useful to include a list of definitions used in the report, especially for terms with varying definitions internationally, or any terms that are country-specified. Update the list below, including any country-specific definitions used and then delete this text box by clicking on the three dots to the left of the box and pressing ‘delete’ on the keyboard.  
+
+**Age-specific fertility rate (ASFR)**: The annual number of births to women of a particular age group per 1,000 women in that age group.  
+
+**Age-specific mortality rate (ASMR)**: A mortality rate limited to a particular age group. The numerator is the number of deaths in that age group; the denominator is the number of persons in that age group in the population.  
+
+**Cause of death**: ‘All those diseases, morbid conditions or injuries which either resulted in or contributed to death and the circumstances of the accident or violence which produced any such injuries’.  Symptoms and modes of dying, such as heart failure or respiratory failure, are not considered to be causes of death for statistical purposes (see ‘ill-defined cause of death’).  
+
+**Completeness of registration**: The proportion of vital events that are registered. It is the number of registered vital events divided by an estimate of the actual number of vital events that occurred in the same population during a specific period of time.  
+
+**Crude birth rate (CBR)**: The number of live births relative to the size of that population during a given period, usually one year. It is expressed as the number of live births per 1,000 population per year.  
+
+**Crude death rate (CDR)**: The number of deaths relative to the size of that population during a given period, usually one year. It is expressed as the number of deaths per 1,000 population per year.  
+
+**Death**: The permanent disappearance of all evidence of life at any time after live birth has taken place (postnatal cessation of vital functions without capability of resuscitation). This definition excludes foetal deaths, which are defined separately.  
+
+**Foetal death (also referred to as ‘stillbirth’)**: ‘Death prior to the complete expulsion or extraction from the mother of a product of conception, irrespective of the duration of pregnancy; the death is indicated by the fact that after such separation the foetus does not breathe or show any other evidence of life, such as beating of the heart, pulsation of the umbilical cord or definite movement of voluntary muscles.’  Note that this definition broadly includes all terminations of pregnancy other than live births, as defined above.  
+
+**Ill-defined cause of death**: Any code that cannot or should not be used for the underlying cause of death (generally referring to ‘R codes’). For instance, a ‘mode of death’ such as heart failure or kidney failure, symptoms such as back pain or depression, and risk factors such as high blood pressure are all uninformative, ill-defined codes for public health purposes.  
+
+**Infant mortality rate (IMR)**: Probability (expressed as a rate per 1,000 live births) of a child born in a specific year or period dying before reaching the age of 1, if subject to age-specific mortality rates of that period.  
+
+**Life expectancy at birth**: The average number of years that a newborn could expect to live, if he or she were to pass through life exposed to the sex- and age-specific death rates prevailing at the time of his or her birth, for a specific year, in a given country, territory, or geographic area.  
+
+**Live birth**: ‘The complete expulsion or extraction from the mother of a product of conception, irrespective of the duration of pregnancy, which, after such separation, breathes or shows any other evidence of life, such as beating of the heart, pulsation of the umbilical cord, or definite movement of voluntary muscles, whether or not the umbilical cord has been cut or the placenta is attached; each product of such a birth is considered live born (all live-born infants should be registered and counted as such, irrespective of gestational age or whether alive or dead at the time of registration, and if they die at any time following birth, they should also be registered and counted as deaths).’  
+
+**Maternal death**: ‘The death of a woman while pregnant or within 42 days of termination of pregnancy, irrespective of the duration and site of the pregnancy, from any cause related to or aggravated by the pregnancy or its management but not from accidental or incidental causes.’   
+Maternal mortality ratio (MMR): The number of maternal deaths during a given time period per 100,000 live births during the same time period.  
+
+**Neonatal mortality rate (NMR)**: Probability (expressed as a rate per 1,000 live births) of a child born in a specific year or period dying in the first 30 days of life, if subject to age-specific mortality rates of that period.  
+
+**Sex ratio at birth**: The number of male births for a specific area and during a specified period divided by the number of female births for the same area and period. The sex ratio is an important demographic indicator of the distribution of boys and girls at birth.  
+
+**Total fertility rate (TFR)**: The sum of age-specific fertility rates for females aged between 15 and 49 years during a specified period, usually one year. It is an estimate of the average number of children a cohort of women would bear if they went through their childbearing years experiencing the same age-specific fertility rates.  
+
+**Under-5 mortality rate (U5MR)**: The probability of a child born in a specific year or period dying before reaching the age of 5, if subject to age-specific mortality rates of that period. The under-5 mortality rate as defined here is strictly speaking not a rate (i.e. the number of deaths divided by the number of population at risk during a certain period of time) but a probability of death derived from a life table and expressed as rate per 1,000 live births.  
+
+**Underlying cause of death**: The cause of death to be used for primary statistical tabulation purposes has been designated as the underlying cause of death. The underlying cause of death is defined as ‘(a) the disease or injury which initiated the train of events leading directly to death, or (b) the circumstances of the accident or violence which produced the fatal injury.’  
+
+\newpage
+## Executive summary
 ENTER TEXT HERE. Include one or two paragraphs that summarise key findings as they relate to the main chapters of the report. Also note what year (or years) of data the report refers to, and any major data quality concerns including the level of birth and death registration completeness.
 
-Births
-ENTER TEXT HERE. Copy the summary paragraph from the beginning of Chapter 4.
-Summary statistics on fertility by year of occurrence
+\newpage
+## Births
+ENTER TEXT HERE. Copy the summary paragraph from the beginning of Chapter 4.  
+Summary statistics on fertility by year of occurrence. 
 Indicator	Year 1	Year 2	Year 3	Year …	Most recent
 Registered live births (number)					
 Males					
@@ -284,7 +330,7 @@ Sex ratio at birth
 Crude birth rate (per 1,000 population)					
 Total fertility rate (births per woman)					
 
-Deaths
+## Deaths
 ENTER TEXT HERE. Copy the summary paragraph from the beginning of Chapter 5.
 Summary statistics on mortality by year of occurrence
 Indicator	Year 1	Year 2	Year 3	Year …	Most recent
@@ -301,7 +347,7 @@ Females
 Under-5 mortality rate (per 1,000 live births)					
 Maternal mortality ratio (per 100,000 live births)					
 
-Leading causes of death
+## Leading causes of death
 ENTER TEXT HERE. Copy the summary paragraph from the beginning of Chapter 6. If data are available by age group and sex, use the first table. If data are not available by age group and sex (or are of poor quality), delete the first table and use the second—which shows the top 10 causes of death for all ages and both sexes.
 Leading causes of death by broad age group and sex, year
 	 	Males 	 	Females
